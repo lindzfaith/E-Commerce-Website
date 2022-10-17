@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "install": "^0.13.0",
+    "next": "12.1.0",
+    "next-sanity-image": "^3.2.1"
+  },
+  "devDependencies": {
+    "@babel/preset-react": "^7.18.6"
+  }
+}
