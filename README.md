@@ -33,4 +33,6 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-The original design was created by adrianhajdin and can be found here: https://github.com/adrianhajdin/ecommerce_sanity_stripe. There were a multitude of style changes and I am actively expanding my Javascript knowledge to improve the design. 
+## Credit
+
+The original design was created by adrianhajdin and can be found here: https://github.com/adrianhajdin/ecommerce_sanity_stripe. There were a multitude of style changes and I am actively expanding my Javascript knowledge to improve my version of this design. 
