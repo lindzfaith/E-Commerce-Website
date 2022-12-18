@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <div className="footer-container">
       <p>
-      All characters and images are property of Nintendo.
+      Plushies are not for sale. This website is an example e-commerce site.
       </p>
       <p className="icons">
         <AiFillInstagram/>

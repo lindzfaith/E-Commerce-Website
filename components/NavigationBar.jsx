@@ -10,7 +10,7 @@ const NavigationBar = () => {
   return (
     <div className="navbar-container">
       <p className="logo">
-        <Link href="/"> Super Smash Characters</Link>
+        <Link href="/"> A Plushy Shop</Link>
       </p>
 
       <button type="button" 
