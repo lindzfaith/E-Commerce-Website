@@ -37,4 +37,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 The original design was created by adrianhajdin and can be found here: https://github.com/adrianhajdin/ecommerce_sanity_stripe. 
 
-There were a multitude of style changes and I am actively expanding my Javascript knowledge to improve my version of this design. Features I added include a sale price system and style changes. 
+There were a multitude of style changes and I am actively expanding my Javascript knowledge to improve my version of this design. Features I added include a sale price system. 
