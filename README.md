@@ -35,6 +35,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Credit
 
-The original design comes from an online Javascript course I participated in. This course (and the original project) was created by adrianhajdin and can be found here: https://github.com/adrianhajdin/ecommerce_sanity_stripe. However, I made a multitude of CSS changes and am currently working on creating new pages and making changes to personalize the website further to my preferences. 
+The original design comes from an online Javascript course I participated in. This course (and the original project) was created by adrianhajdin and can be found here: https://github.com/adrianhajdin/ecommerce_sanity_stripe. However, I made a multitude of CSS changes and am currently working on creating new pages and making changes to personalize the website further to my preferences. I did not clone his repository. Outside of the original stylesheet (that I have altered and added to), I typed every line of code in the components, context, and pages. 
 
 I am actively expanding my Javascript capabilities to implement new features to this design. I am currently working on adding a sale price system and a separate products page in between my busy schedule as a Computer Science student. 
